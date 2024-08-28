@@ -1,0 +1,13 @@
+.button{
+    max-width: 500px;
+    border-radius: 7px;
+    padding: 4px;
+}
+
+.variante_primaria{
+    background-color: aqua;
+}
+
+.variante_secundaria{
+    background-color: pink;
+}
